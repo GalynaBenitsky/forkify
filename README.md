@@ -5,4 +5,5 @@ App built with modern JavaScript tools, such as Webpack to bundle the modules, a
 User can search for a specific recipe, and add ingredients to a shopping list or save to a favourites list via local storage. 
 
 
+
 <img width="1427" alt="forkify" src="https://user-images.githubusercontent.com/43690415/98884800-d1c7f380-245e-11eb-912a-df29f238de6e.png">
